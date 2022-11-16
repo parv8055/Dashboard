@@ -1,0 +1,39 @@
+.container{
+    /* border: 1px solid red;   */
+ display: flex;
+ margin-bottom: 15px;
+ background-color: #b9e8e8;
+padding-top: 10px;
+padding-bottom: 10px;
+border-radius: 15px;
+}
+
+.image{
+    /* border: 1px solid red;   */
+ width: 20%;
+ display: flex;
+ justify-content: center;
+}
+.image img{
+   width: 200px;
+   height: 130px;
+}
+
+
+.details{
+    /* border: 1px solid red;   */
+    width: 80%;
+}
+.details_div{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+
+.details_button{
+    margin-top: 20px;
+    display: flex;
+    /* border: 1px solid red;   */
+}
+

@@ -1,0 +1,13 @@
+.Main{
+    /* padding-top: 1rem; */
+    /* display: flex; */
+    /* flex-direction: column; */
+    width: 83%;
+    height: 100vh;
+}
+.Main_div{
+  display: flex;
+  flex-direction: column;
+  cursor: pointer;
+
+}
